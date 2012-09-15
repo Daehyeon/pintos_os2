@@ -1,0 +1,3 @@
+# This file lists must-be-ignored files in repository. 
+*~ # ignore temporary file, which is made by editors. 
+src/threads/build/ # build is unncessary. You can make it again from src.
